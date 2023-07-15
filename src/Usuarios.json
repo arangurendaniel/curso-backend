@@ -1,0 +1,130 @@
+[
+  {
+      "id": 1,
+      "imagen": "https://i.postimg.cc/V6MkRhKZ/coffee-first.jpg",
+      "nombre": "Coffee First",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje Coffee First, perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 2,
+      "imagen": "https://i.postimg.cc/SxvQp45t/frases-2.jpg",
+      "nombre": "Frases 2",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje 'Nadie te preguntó', perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 3,
+      "imagen": "https://i.postimg.cc/bJQqbtvK/frases.jpg",
+      "nombre": "Frases",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje 'Me gusta fuerte Caliente y a diario', perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 4,
+      "imagen": "https://i.postimg.cc/Y9cph3t6/memes.jpg",
+      "nombre": "Memes",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje 'Llegué tarde porque no quería venir', perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 5,
+      "imagen": "https://i.postimg.cc/k5RJJZPM/simpsons.jpg",
+      "nombre": "Simpsons",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje 'Primero café, luego existo', perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 6,
+      "imagen": "https://i.postimg.cc/9QMXS0x7/stress.jpg",
+      "nombre": "Stress",
+      "precio": 1600,
+      "descripcion": "Hermosa taza de ceramica con el mensaje 'Hello, I'm stressed', perfecta para regalar o para mostrar en la oficina, de seguro que con esta taza tan curiosa se iniciarán conversaciones interesantes.",
+      "categoria": "Tazas"
+  },
+  {
+      "id": 7,
+      "imagen": "https://i.postimg.cc/NM1pcgN6/funko-baby-yoda.jpg",
+      "nombre": "Baby Yoda",
+      "precio": 1600,
+      "descripcion": "Increible Funko Baby Yoda, de la saga de Star Wars. Estamos seguros de que te va encantar tenerlo dentro de tu colección",
+      "categoria": "Funkos"
+  },
+  {
+      "id": 8,
+      "imagen": "https://i.postimg.cc/PJTKfBcB/funko-doctor-strange.jpg",
+      "nombre": "Dr. Strange",
+      "precio": 1600,
+      "descripcion": "Increible Funko de Dr. Strange, del Universo de Marvel. Estamos seguros de que te va encantar tenerlo dentro de tu colección",
+      "categoria": "Funkos"
+  },
+  {
+      "id": 9,
+      "imagen": "https://i.postimg.cc/Kjff10h4/funko-harry-potter.jpg",
+      "nombre": "Harry Potter",
+      "precio": 1600,
+      "descripcion": "Increible Funko de Harry Potter, de la saga del mismo nombre. Estamos seguros de que te va encantar tenerlo dentro de tu colección",
+      "categoria": "Funkos"
+  },
+  {
+      "id": 10,
+      "imagen": "https://i.postimg.cc/h41pZtQg/funko-jon-snow.jpg",
+      "nombre": "Jon Snow",
+      "precio": 1600,
+      "descripcion": "Increible Funko de Jon Snow, de la saga de Juego De Tronos. Estamos seguros de que te va encantar tenerlo dentro de tu colección",
+      "categoria": "Funkos"
+  },
+  {
+      "id": 11,
+      "imagen": "https://i.postimg.cc/R0j4YT83/fathers-day-avenger.jpg",
+      "nombre": "Dia del Padre - Avengers",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de Avengers con motivo del día del Padre. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  },
+  {
+      "id": 12,
+      "imagen": "https://i.postimg.cc/9FJV22KH/harley-davidson.jpg",
+      "nombre": "Harley Davidson",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de Harley Davidson. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  },
+  {
+      "id": 13,
+      "imagen": "https://i.postimg.cc/028xhjtC/jack-daniels.jpg",
+      "nombre": "Jack Daniels",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de Jack Daniels. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  },
+  {
+      "id": 14,
+      "imagen": "https://i.postimg.cc/mkS4tWrM/johnnie-walker.jpg",
+      "nombre": "Johnnie Walker",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de Johnnie Walker. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  },
+  {
+      "id": 15,
+      "imagen": "https://i.postimg.cc/8cGDpzTN/metallica.jpg",
+      "nombre": "Metallica",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de la banda de rock 'Metallica'. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  },
+  {
+      "id": 16,
+      "imagen": "https://i.postimg.cc/dQRwWr91/rolling-stone.jpg",
+      "nombre": "Rolling Stones",
+      "precio": 1600,
+      "descripcion": "Increible vaso de whisky de la banda de rock 'Rolling Stones'. Excelente para regalar o coleccionar",
+      "categoria": "Vasos"
+  }
+]
